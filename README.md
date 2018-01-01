@@ -34,7 +34,9 @@
 
  * 书签浏览，点击可以跳转到高亮部分，点击右上进行删除操作
 <img src="pictures/Bookmarks.png" width="200">
+
  * 跳转后界面
+<img src="pictures/Jump.png" width="200">
 
  * 关键词浏览，点击进行补充，点击右上进行删除操作
 <img src="pictures/Keywords.png" width="200">
@@ -42,10 +44,12 @@
 * 关键词描述补充界面
 <img src="pictures/KeywordDetails.png" width="200">
 
+
 ## 统计界面
  * 显示每天读书时间
 <img src="pictures/Records.png" width="200">
 
+  
 ## 数据持久化
  * 每本书的书签，关键词将保留在文件中，打开时从文件加载
  * 存储每天阅读记录
