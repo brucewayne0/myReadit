@@ -2,7 +2,7 @@
 # Readit 电子阅读器
 ## 实现功能
 ## 首页
-![](https://github.com/brucewayne0/myReadit/blob/master/pictures/Enter.png)
+
 * 进入时直接刷新文件书目，加入新书，删除旧书
 * 点击书名进入阅读界面
 * 点击MyDailyRecords进入统计界面
