@@ -29,11 +29,12 @@
 
 ## List界面
 
- * 章节根据正则匹配进行分析，支持点击跳转
+ * 章节根据正则匹配进行分析，支持点击跳转到文章相应部分
 <img src="pictures/Chapter.png" width="200">
 
- * 书签浏览，点击跳转，点击右上进行删除操作
-<img src="pictures/Night.png" width="200">
+ * 书签浏览，点击可以跳转到高亮部分，点击右上进行删除操作
+<img src="pictures/Bookmarks.png" width="200">
+ * 跳转后界面
 
  * 关键词浏览，点击进行补充，点击右上进行删除操作
 <img src="pictures/Keywords.png" width="200">
